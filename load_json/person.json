@@ -1,0 +1,30 @@
+[
+  {
+    "name" : "Prateek Bansal",
+    "age" : "23",
+    "height" : "172",
+    "gender" : "male",
+    "hair_color" : "black"
+  },
+  {
+    "name" : "Akshat Gupta",
+    "age" : "29",
+    "height" : "190",
+    "gender" : "male",
+    "hair_color" : "black"
+  },
+  {
+    "name" : "Bhavesh Sareen",
+    "age" : "20",
+    "height" : "158",
+    "gender" : "male",
+    "hair_color" : "brown"
+  },
+  {
+    "name" : "Arsh Raina",
+    "age" : "25",
+    "height" : "183",
+    "gender" : "male",
+    "hair_color" : "blonde"
+  }
+]
